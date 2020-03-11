@@ -1,7 +1,7 @@
 # YTKSwift
 A swift version of YTKNetwork 
 
-参考[YTKNetwork](https://github.com/yuantiku/YTKNetwork)并基于[Alamofire](https://github.com/Alamofire/Alamofire)封着的网络请求库
+参考[YTKNetwork](https://github.com/yuantiku/YTKNetwork)并基于[Alamofire](https://github.com/Alamofire/Alamofire)封装的网络请求库
 
 **Features**
 
