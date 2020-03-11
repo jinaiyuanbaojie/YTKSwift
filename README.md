@@ -5,7 +5,7 @@ A swift version of YTKNetwork
 
 **Features**
 
-1. 一个接口用一个类描述，改类只需要继承`HTTPRequest`
+1. 一个接口用一个类描述，此类只需要继承`HTTPRequest`
 2. 无需担心block的循环引用，请求结束后会断开环形引用
 3. JSON和Model的转化使用`Codable`
 
